@@ -1,2 +1,0 @@
-# Getting-started
-first repository
